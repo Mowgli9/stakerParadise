@@ -31,6 +31,12 @@ everyone stake the token allowed by the pool will get a part of the total reward
 # inventory : 
   here you can see and claim your STP token reward, not that only you see all the pool that you invested in it.
   
+  
+# Admin Dashboard : 
+
+  please visit this repo to understand the admin side :
+  https://github.com/Mowgli9/StakerParadiseSmartContract
+  
 # Contact me :
  it's me Mowgli, if you have any question about this project if you couldn't understand something feel free to contact me.
  If you have a job for me or a project I'm ready to make any web3 project.
