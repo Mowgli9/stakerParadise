@@ -408,7 +408,7 @@ export default function Home(props) {
                   size="Small"
                   variant="contained"
                   endIcon={<GitHubIcon sx={{ fontSize: 20 }} />}
-                  href=""
+                  href="https://github.com/Mowgli9/StakerParadise"
                 >
                   Source
                 </Button>
@@ -416,16 +416,11 @@ export default function Home(props) {
                   size="Small"
                   variant="outlined"
                   endIcon={<TelegramIcon sx={{ fontSize: 20 }} />}
+                  href="https://t.me/mowgli_9"
                 >
                   Telegram
                 </Button>
-                <Button
-                  size="Small"
-                  variant="outlined"
-                  endIcon={<MailIcon sx={{ fontSize: 20 }} />}
-                >
-                  email
-                </Button>
+               
               </CardActions>
             </Card>
           </Grid>
