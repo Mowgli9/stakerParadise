@@ -26,4 +26,16 @@ everyone stake the token allowed by the pool will get a part of the total reward
  # Free token :
  
   I made this free token section to get some tokens to participate to 
+  to the stking pool. but the owner can order any type of erc20 tokens in the pool.
+  
+# inventory : 
+  here you can see and claim your STP token reward, not that only you see all the pool that you invested in it.
+  
+# Contact me :
+ it's me Mowgli, if you have any question about this project if you couldn't understand something feel free to contact me.
+ If you have a job for me or a project I'm ready to make any web3 project.
+ Discord : Mowgli#7713
+ Telegram ; mowgli_9
+ 
+ ##############PEACE#############
 
