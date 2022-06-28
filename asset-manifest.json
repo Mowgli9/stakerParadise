@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/stakerParadise/static/css/main.31d6cfe0.css",
+    "main.js": "/stakerParadise/static/js/main.af0cfd71.js",
+    "static/js/73.cfac9bde.chunk.js": "/stakerParadise/static/js/73.cfac9bde.chunk.js",
+    "static/js/974.480ebccd.chunk.js": "/stakerParadise/static/js/974.480ebccd.chunk.js",
+    "static/js/510.c2c0d3ee.chunk.js": "/stakerParadise/static/js/510.c2c0d3ee.chunk.js",
+    "static/js/427.98db2345.chunk.js": "/stakerParadise/static/js/427.98db2345.chunk.js",
+    "static/js/367.b8592a15.chunk.js": "/stakerParadise/static/js/367.b8592a15.chunk.js",
+    "static/js/651.951d7da4.chunk.js": "/stakerParadise/static/js/651.951d7da4.chunk.js",
+    "static/js/23.e53321f8.chunk.js": "/stakerParadise/static/js/23.e53321f8.chunk.js",
+    "static/js/643.1cb27341.chunk.js": "/stakerParadise/static/js/643.1cb27341.chunk.js",
+    "static/js/508.2ca9180c.chunk.js": "/stakerParadise/static/js/508.2ca9180c.chunk.js",
+    "static/js/480.6d428c0f.chunk.js": "/stakerParadise/static/js/480.6d428c0f.chunk.js",
+    "static/js/889.0a95475d.chunk.js": "/stakerParadise/static/js/889.0a95475d.chunk.js",
+    "static/js/550.2bd18c5a.chunk.js": "/stakerParadise/static/js/550.2bd18c5a.chunk.js",
+    "static/js/562.e26f4fca.chunk.js": "/stakerParadise/static/js/562.e26f4fca.chunk.js",
+    "static/js/461.a9e77bbf.chunk.js": "/stakerParadise/static/js/461.a9e77bbf.chunk.js",
+    "static/js/798.5d71fd45.chunk.js": "/stakerParadise/static/js/798.5d71fd45.chunk.js",
+    "static/media/SPT2.png": "/stakerParadise/static/media/SPT2.68113a58b873e74c8571.png",
+    "static/media/tokenImage (900 × 700 px).png": "/stakerParadise/static/media/tokenImage (900 × 700 px).47b8aa9b402d46f62a3f.png",
+    "static/media/waiting model 1.png": "/stakerParadise/static/media/waiting model 1.dff87dfd6ffcf887e566.png",
+    "static/media/earn model 1.png": "/stakerParadise/static/media/earn model 1.fdf41cffe42b66372ddd.png",
+    "static/media/staking.png": "/stakerParadise/static/media/staking.cf25690ebae2fb67bf38.png",
+    "index.html": "/stakerParadise/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.af0cfd71.js"
+  ]
+}
