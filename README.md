@@ -1,6 +1,8 @@
 # Webiste   : https://stakerparadise.netlify.app/
  
-! ! ! ! ! ! ! important : you should use the rinkbey network ! ! ! ! ! ! !
+! ! ! ! ! ! ! important :
+1) for now you should have metamask installed to see the website.(just for now under developement).
+2) you should use the rinkbey network ! ! ! ! ! ! !
 # Project overview :
 
 Staker paradise is a yield farming platform, where the owner can create IVP ( investment Pools ),                               
